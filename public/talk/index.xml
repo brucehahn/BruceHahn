@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Bruce Hahn, MAI, SRA</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Bruce Hahn, MAI, SRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Bruce Hahn &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 04 Jun 2019 19:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Report Writing - Tell the Value Story Convincingly!</title>
+      <link>/talk/report-writing/</link>
+      <pubDate>Tue, 04 Jun 2019 19:00:00 -0700</pubDate>
+      
+      <guid>/talk/report-writing/</guid>
+      <description>Report Writing for Appraisers. How to tell your value story convincingly.</description>
+    </item>
+    
+  </channel>
+</rss>

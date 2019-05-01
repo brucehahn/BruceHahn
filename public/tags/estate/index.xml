@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Estate on Bruce Hahn, MAI, SRA</title>
+    <link>/tags/estate/</link>
+    <description>Recent content in Estate on Bruce Hahn, MAI, SRA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Bruce Hahn &amp;copy; {year}</copyright>
+    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/estate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estate &amp; Gift Tax</title>
+      <link>/project/estate/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/project/estate/</guid>
+      <description>Estate and Gift Tax Appraisals</description>
+    </item>
+    
+  </channel>
+</rss>
