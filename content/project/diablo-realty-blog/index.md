@@ -1,6 +1,6 @@
 ---
-date: "2109-04-29T00:00:00-07:00"
-external_link: https://www.diablorealtyblog.com
+date: "2109-05-01T00:00:00-07:00"
+external_link: "https://www.diablorealtyblog.com""
 image:
 #  caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
