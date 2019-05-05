@@ -5,7 +5,7 @@ authors: []
 date: "2019-06-04T19:00:00-07:00"
 date_end: "2019-06-04T21:00:00-07:00"
 event: Real Estate Appraiser's Association
-event_url: https://www.reaa.com/sacramento
+event_url: https://www.reaa.org/sacramento
 featured: false
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'

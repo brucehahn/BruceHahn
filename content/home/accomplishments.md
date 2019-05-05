@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Bureau of Real Estate Appraisers"
-  organization_url = "https://www.brea.ca.gov"
+  organization_url = "http://www.brea.ca.gov"
   title = "Appraiser License"
 #  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
 #  certificate_url = "https://www.edx.org"
@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   
 [[item]]
   organization = "Department of Real Estate"
-  organization_url = "https://www.dre.ca.gov"
+  organization_url = "http://www.dre.ca.gov"
   title = "Broker License"
 #  url = ""
 #  certificate_url = "https://www.datacamp.com"

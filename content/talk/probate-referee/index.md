@@ -5,7 +5,7 @@ authors: []
 date: "2018-10-01T08:30:00-07:00"
 date_end: "2018-10-01T09:30:00-07:00"
 event: California Probate Referee's Association
-event_url: https://www.probatereferees.net
+event_url: http://www.probatereferees.net
 featured: false
 image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
