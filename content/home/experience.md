@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Real Estate Asset Analyst"
-  company = "Bruce Hahn, MAI, SRA"
+  company = "Bruce Hahn, SRA, MAI, CRE"
   company_url = "https://www.brucehahn.com/"
   location = "Walnut Creek, California"
   date_start = "1991-04-01"

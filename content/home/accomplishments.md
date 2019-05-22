@@ -27,6 +27,16 @@ date_format = "Jan 2006"
   date_start = "1995-12-19"
   date_end = ""
   description = "MAI, SRA"
+  
+[[item]]
+  organization = "The Counselors of Real Estate"
+  organization_url = "https://www.cre.org"
+  title = "Counselor of Real Estate"
+  url = "https://www.cre.org/about/why-choose-a-counselor/"
+#  certificate_url = "https://www.coursera.org"
+  date_start = "2019-05-19"
+  date_end = ""
+  description = "CRE"  
 
 [[item]]
   organization = "Bureau of Real Estate Appraisers"

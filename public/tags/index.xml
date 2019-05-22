@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Bruce Hahn, MAI, SRA</title>
+    <title>Tags on Bruce Hahn, SRA, MAI, CRE</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on Bruce Hahn, MAI, SRA</description>
+    <description>Recent content in Tags on Bruce Hahn, SRA, MAI, CRE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Bruce Hahn &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 29 Apr 2109 00:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2109 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Diablo Country</title>
       <link>/tags/diablo-country/</link>
-      <pubDate>Mon, 29 Apr 2109 00:00:00 -0700</pubDate>
+      <pubDate>Wed, 01 May 2109 00:00:00 -0700</pubDate>
       
       <guid>/tags/diablo-country/</guid>
       <description></description>
