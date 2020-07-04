@@ -1,7 +1,7 @@
 ---
 authors:
 - admin
-bio: Real Estate Appraiser specializing in the valuation of properties for tax appeal, estate and dissolution purposes in Diablo Country.
+bio: Real Estate Appraiser specializing in the valuation of properties for tax appeal, eminent domain, estate, and dissolution purposes in Diablo Country.
 education:
   courses:
 #  - course: PhD in Artificial Intelligence
@@ -24,7 +24,7 @@ name: Bruce Hahn
 organizations:
 - name: Diablo Realty Blog
   url: "https://www.diablorealtyblog.com/"
-role: Asset Analyst
+role: Real Estate Analyst
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,6 +44,6 @@ user_groups:
 #- Visitors
 ---
 
-Bruce Hahn is a real estate asset analyst specializing in valuations for tax appeal, dissolutions, estate and tax planning situations. He has over thirty years of valuation and counseling experience with all types of real estate including residential, apartment, office, industrial, retail, special purpose and agricultural properties. Currently he focuses on data visualization techniques to analyze market influences on the value of real property.
+Bruce Hahn is a real estate  analyst specializing in appraisals for tax appeal, dissolutions, eminent domain, estate, and tax planning situations. He has over thirty years of valuation and counseling experience with all types of real estate including residential, apartment, office, industrial, retail, special purpose and agricultural properties. Currently he focuses on data visualization techniques to analyze market influences on the value of real property.
 
-Mr. Hahn has over 1,500 hours of specialized appraisal education, has been awarded the MAI and SRA designations by the [Appraisal Institute](https://www.appraisalinstitute.org/) and is a [Counselor of Real Estate](https://www.cre.org/). He is licensed in California as a Real Estate Broker and Certified General Real Estate Appraiser, and is a Past President (2005) of the Northern California Chapter of the Appraisal Institute. Bruce Hahn has extensive experience preparing real estate appraisals for estate and tax planning, family law, tax appeal, and diminution in market value purposes. Please email or call if you need an appraisal! Visit [Diablo Realty Blog](https://www.diablorealtyblog.com/) to explore real estate values in Diablo Country!  
+Mr. Hahn has over 2,000 hours of specialized appraisal education, has been awarded the MAI and SRA designations by the [Appraisal Institute](https://www.appraisalinstitute.org/) and is a [Counselor of Real Estate](https://www.cre.org/). He is licensed in California as a Real Estate Broker and Certified General Real Estate Appraiser, and is a Past President (2005) of the Northern California Chapter of the Appraisal Institute. Bruce Hahn has extensive experience preparing real estate appraisals for estate and tax planning, family law, eminent domain, tax appeal, and diminution in market value purposes. Please email or call if you need an appraisal! Visit [Diablo Realty Blog](https://www.diablorealtyblog.com/) to explore real estate values in Diablo Country!  

@@ -18,13 +18,13 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Asset Analyst"
+  title = "Real Estate Analyst"
   company = "Bruce Hahn, CRE, MAI, SRA"
   company_url = "https://www.brucehahn.com/"
   location = "Walnut Creek, California"
   date_start = "1991-04-01"
   date_end = ""
-  description = """Appraisal of real estate for estate and gift taxes, dissolution, tax appeal, and diminution in market value purposes on residential, commercial and agricultural properties. """
+  description = """Appraisal of real estate for estate and gift taxes, dissolution, tax appeal, eminent domain, and diminution in market value purposes on residential, commercial and agricultural properties. """
 
 [[experience]]
   title = "Real Estate Appraiser"
